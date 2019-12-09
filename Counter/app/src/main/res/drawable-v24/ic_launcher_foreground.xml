@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="7eecb31d-9ba8-4438-9027-53007d28ebfd" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="CodeInsightWorkspaceSettings">
+        <option
+            name="optimizeImportsOnTheFly"
+            value="true" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="isMigrated"
+            value="true" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="Pixel_2_API_24" />
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider editor-type-id="android-designer2" />
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="271">
+                            <caret
+                                column="15"
+                                lean-forward="true"
+                                line="89"
+                                selection-end-column="15"
+                                selection-end-line="89"
+                                selection-start-column="15"
+                                selection-start-line="89" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/varshikasahu/order/MainActivity.java">
+                    <provid
